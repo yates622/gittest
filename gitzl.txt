@@ -3,4 +3,5 @@ set fencs=utf-8,gbk,utf-16,utf-32,ucs-bom
 pwd：显示当前路径
 git init 把当前文件夹作为一个git repository
 modify file!!!
+modify file2222
 图片，视频等文件没法跟踪文件的变化，git只能跟踪文本文件的的改动 发
